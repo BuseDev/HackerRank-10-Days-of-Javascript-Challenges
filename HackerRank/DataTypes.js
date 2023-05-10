@@ -10,7 +10,6 @@
 *   secondDecimal - The string representation of a floating-point number.
 *   secondString - A string consisting of one or more space-separated words.
 **/
-
 function performOperation(secondInteger, secondDecimal, secondString) {
     // Declare a variable named 'firstInteger' and initialize with integer value 4.
     const firstInteger = 4;
